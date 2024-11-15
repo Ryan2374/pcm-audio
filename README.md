@@ -1,0 +1,1 @@
+This is a starting point for real-time PCM audio playback on both Next.js (web) and React Native (mobile) platforms with buffer management, overflow handling, and latency optimizations for seamless PCM playback. It is also a work in progress to be updated over time.
